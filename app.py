@@ -24,3 +24,5 @@ b=15
 
 c=20
 print("Testing stash command")
+
+print("Testing cheery-pick")
