@@ -19,4 +19,7 @@ print("This is my addition to this code -- Thiagarajan")
 
 a = 5
 
-a =7
+a=10
+b=15
+
+c=20
