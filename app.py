@@ -18,3 +18,6 @@ print("Hi This is Mouli")
 print("This is my addition to this code -- Thiagarajan")
 
 a = 5
+
+a=10
+b=15
