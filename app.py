@@ -23,5 +23,6 @@ a=10
 b=15
 
 c=20
+print("Testing stash command")
 
-print("rebase test main -- test1")
+print("rebase test main")
