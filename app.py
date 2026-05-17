@@ -4,7 +4,7 @@ print("This is a test for Git with Jenkins")
 
 print ("This is added by Thiagarajan")
 
-print ("You are in the prod branch")
+print ("You are in the dev branch")
 
 testList = ["this","is","a","list"]
 
@@ -12,9 +12,9 @@ print(testList)
 
 print("This is my addition to this code -- Thiagarajan")
 
-a=11
-b=51
-c=101
+a=1
+b=5
+c=10
 
 print("This is the first variable: ",a)
 print("This is the second variable: ",b)
