@@ -1,27 +1,25 @@
 print("Hello World!")
 
-print("Prashant")
+print("This is a test for Git with Jenkins")
 
-print("This is the Git Class")
+print ("This is added by Thiagarajan")
 
-a = 6
-print ("This is added by Ali Hussain")
+print ("You are in the dev branch")
 
 testList = ["this","is","a","list"]
 
 print(testList)
 
-print("Govind")
-
-print("Hi This is Mouli")
-
 print("This is my addition to this code -- Thiagarajan")
 
-a = 5
+a=1
+b=5
+c=10
 
-a=10
-b=15
+print("This is the first variable: ",a)
+print("This is the second variable: ",b)
+print("This is the third variable: ",c)
 
-c=20
+d=a+b+c
 
-print("rebase test main -- test1")
+print("The sum of the three variables is: ",d)
